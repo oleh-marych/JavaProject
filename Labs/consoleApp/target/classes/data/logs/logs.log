@@ -1,0 +1,165 @@
+2023-11-11 12:05:20 INFO  Menu:15 - Програма запустилась
+2023-11-11 12:08:47 INFO  Menu:20 - Програма запустилась
+2023-11-11 12:08:53 INFO  ExitCommand:41 - завершення програми
+2023-11-11 12:26:14 INFO  Menu:20 - Програма запустилась
+2023-11-11 12:26:22 INFO  PrintData:49 - Виконалась команда print all
+2023-11-11 12:26:26 INFO  CountUsers:34 - Виконалась команда count all
+2023-11-11 12:26:28 INFO  ExitCommand:41 - завершення програми
+2023-11-11 12:26:49 INFO  Menu:20 - Програма запустилась
+2023-11-11 12:31:01 INFO  Menu:20 - Програма запустилась
+2023-11-11 12:31:49 INFO  Menu:20 - Програма запустилась
+2023-11-11 12:31:52 INFO  PrintData:49 - Виконалась команда print all
+2023-11-11 12:33:48 INFO  Menu:20 - Програма запустилась
+2023-11-11 12:37:45 INFO  Menu:20 - Програма запустилась
+2023-11-11 12:37:56 INFO  ReadFromFile:26 - Виконалась команда read-from default
+2023-11-11 12:38:08 INFO  WriteToFileResult:27 - Виконалась команда write-result default
+2023-11-11 12:38:12 INFO  PrintData:49 - Виконалась команда print all
+2023-11-11 12:38:17 INFO  CountUsers:34 - Виконалась команда count all
+2023-11-11 12:38:23 INFO  FindTariff:60 - Виконалась команда find by by name
+2023-11-11 12:38:28 ERROR FindTariff:64 - 
+No such command as by fsdfd in find by statement
+2023-11-11 12:38:49 INFO  ExitCommand:41 - завершення програми
+2023-11-11 12:40:59 INFO  Menu:20 - Програма запустилась
+2023-11-11 12:41:09 ERROR FindTariff:69 - No such command as fds in find by diapason statement
+2023-11-11 12:41:24 INFO  ExitCommand:41 - завершення програми
+2023-11-11 16:00:38 ERROR SortTariff:65 - No such command as by feePerMonth in sort statement
+2023-11-11 16:02:53 ERROR SortTariff:65 - No such command as by feePerMonth in sort statement
+2023-11-11 16:06:33 INFO  SortTariff:61 - Виконалась команда sort feePerMonth
+2023-11-11 16:08:29 INFO  SortTariff:61 - Виконалась команда sort feePerMonth
+2023-11-11 16:08:42 INFO  SortTariff:61 - Виконалась команда sort feePerMonth
+2023-11-11 16:08:42 INFO  SortTariff:61 - Виконалась команда sort internetInGB
+2023-11-11 16:09:57 INFO  SortTariff:61 - Виконалась команда sort feePerMonth
+2023-11-11 16:09:57 INFO  SortTariff:61 - Виконалась команда sort internetInGB
+2023-11-11 16:11:42 ERROR SortTariff:65 - No such command as Unknown_command in sort statement
+2023-11-11 16:11:42 INFO  SortTariff:61 - Виконалась команда sort feePerMonth
+2023-11-11 16:11:42 INFO  SortTariff:61 - Виконалась команда sort internetInGB
+2023-11-11 16:19:16 ERROR PrintData:52 - 
+No such command as Unknown_command in sort statement
+2023-11-11 16:22:07 ERROR PrintData:51 - 
+No such command as Unknown_command in sort statement
+2023-11-11 16:40:04 ERROR PrintData:51 - 
+No such command as Unknown_command in sort statement
+2023-11-11 16:40:04 INFO  PrintData:47 - Виконалась команда sort all
+2023-11-11 17:06:00 INFO  CountUsers:34 - Виконалась команда count all
+2023-11-11 17:07:24 ERROR CountUsers:37 - No such command as Unknown_command in count statement
+2023-11-11 17:07:24 INFO  CountUsers:34 - Виконалась команда count all
+2023-11-11 17:08:22 ERROR SortTariff:65 - No such command as Unknown_command in sort statement
+2023-11-11 17:08:22 INFO  SortTariff:61 - Виконалась команда sort feePerMonth
+2023-11-11 17:08:22 INFO  SortTariff:61 - Виконалась команда sort internetInGB
+2023-11-11 17:08:40 ERROR PrintData:51 - 
+No such command as Unknown_command in sort statement
+2023-11-11 17:08:40 INFO  PrintData:47 - Виконалась команда sort all
+2023-11-11 17:09:43 ERROR CountUsers:37 - No such command as Unknown_command in count statement
+2023-11-11 17:09:43 INFO  CountUsers:34 - Виконалась команда count all
+2023-11-11 17:12:32 ERROR FindTariff:64 - No such command as by Unknown_command in find statement
+2023-11-11 17:12:32 ERROR FindTariff:69 - No such command as Unknown_command in find diapason statement
+2023-11-11 17:12:32 ERROR FindTariff:64 - No such command as by feePerMonth in find statement
+2023-11-11 17:24:48 INFO  FindTariff:60 - Виконалась команда find by name
+2023-11-11 17:26:35 INFO  FindTariff:60 - Виконалась команда find by name
+2023-11-11 17:51:20 INFO  FindTariff:60 - Виконалась команда find by diapason feePerMonth
+2023-11-11 17:51:20 INFO  FindTariff:60 - Виконалась команда find by diapason internetInGB
+2023-11-11 17:57:13 INFO  FindTariff:60 - Виконалась команда find by diapason feePerMonth
+2023-11-11 17:58:26 INFO  FindTariff:60 - Виконалась команда find by diapason internetInGB
+2023-11-11 17:59:39 INFO  FindTariff:60 - Виконалась команда find by diapason feePerMonth
+2023-11-11 17:59:39 INFO  FindTariff:60 - Виконалась команда find by diapason internetInGB
+2023-11-11 17:59:39 INFO  FindTariff:60 - Виконалась команда find by diapason callMinutes
+2023-11-11 18:00:25 INFO  FindTariff:60 - Виконалась команда find by diapason feePerMonth
+2023-11-11 18:00:25 INFO  FindTariff:60 - Виконалась команда find by diapason internetInGB
+2023-11-11 18:00:25 INFO  FindTariff:60 - Виконалась команда find by diapason callMinutes
+2023-11-11 18:00:25 INFO  FindTariff:60 - Виконалась команда find by diapason kstSMS
+2023-11-11 18:03:22 INFO  FindTariff:60 - Виконалась команда find by diapason feePerMonth
+2023-11-11 18:03:22 INFO  FindTariff:60 - Виконалась команда find by diapason internetInGB
+2023-11-11 18:03:22 INFO  FindTariff:60 - Виконалась команда find by diapason callMinutes
+2023-11-11 18:03:22 INFO  FindTariff:60 - Виконалась команда find by diapason kstSMS
+2023-11-11 18:03:53 ERROR FindTariff:64 - No such command as by Unknown_command in find statement
+2023-11-11 18:03:53 INFO  FindTariff:60 - Виконалась команда find by name
+2023-11-11 18:03:53 INFO  FindTariff:60 - Виконалась команда find by diapason feePerMonth
+2023-11-11 18:03:53 INFO  FindTariff:60 - Виконалась команда find by diapason internetInGB
+2023-11-11 18:03:53 INFO  FindTariff:60 - Виконалась команда find by diapason callMinutes
+2023-11-11 18:03:53 INFO  FindTariff:60 - Виконалась команда find by diapason kstSMS
+2023-11-11 18:03:53 ERROR FindTariff:69 - No such command as Unknown_command in find diapason statement
+2023-11-11 18:03:53 INFO  FindTariff:60 - Виконалась команда find by name
+2023-11-11 18:08:31 ERROR ReadFromFile:30 - No such command as Unknown_command in reader statement
+2023-11-11 18:08:31 INFO  ReadFromFile:26 - Виконалась команда reader default
+2023-11-11 18:08:31 INFO  ReadFromFile:26 - Виконалась команда reader filename
+2023-11-11 18:08:45 ERROR ReadFromFile:30 - No such command as Unknown_command in reader statement
+2023-11-11 18:08:45 INFO  ReadFromFile:26 - Виконалась команда reader default
+2023-11-11 18:08:45 INFO  ReadFromFile:26 - Виконалась команда reader filename
+2023-11-11 18:13:43 ERROR WriteToFileResult:30 - No such command as Unknown_command in write statement
+2023-11-11 18:13:43 INFO  WriteToFileResult:27 - Виконалась команда write filename
+2023-11-11 18:13:43 INFO  WriteToFileResult:27 - Виконалась команда write default
+2023-11-11 18:14:21 ERROR CountUsers:37 - No such command as Unknown_command in count statement
+2023-11-11 18:14:21 INFO  CountUsers:34 - Виконалась команда count all
+2023-11-11 18:14:22 ERROR WriteToFileResult:30 - No such command as Unknown_command in write statement
+2023-11-11 18:14:22 INFO  WriteToFileResult:27 - Виконалась команда write filename
+2023-11-11 18:14:22 INFO  WriteToFileResult:27 - Виконалась команда write default
+2023-11-11 18:14:22 ERROR PrintData:51 - 
+No such command as Unknown_command in sort statement
+2023-11-11 18:14:22 INFO  PrintData:47 - Виконалась команда sort all
+2023-11-11 18:14:22 ERROR SortTariff:65 - No such command as Unknown_command in sort statement
+2023-11-11 18:14:22 INFO  SortTariff:61 - Виконалась команда sort feePerMonth
+2023-11-11 18:14:22 INFO  SortTariff:61 - Виконалась команда sort internetInGB
+2023-11-11 18:14:22 ERROR FindTariff:64 - No such command as by Unknown_command in find statement
+2023-11-11 18:14:22 INFO  FindTariff:60 - Виконалась команда find by name
+2023-11-11 18:14:22 INFO  FindTariff:60 - Виконалась команда find by diapason feePerMonth
+2023-11-11 18:14:22 INFO  FindTariff:60 - Виконалась команда find by diapason internetInGB
+2023-11-11 18:14:22 INFO  FindTariff:60 - Виконалась команда find by diapason callMinutes
+2023-11-11 18:14:22 INFO  FindTariff:60 - Виконалась команда find by diapason kstSMS
+2023-11-11 18:14:22 ERROR FindTariff:69 - No such command as Unknown_command in find diapason statement
+2023-11-11 18:14:22 INFO  FindTariff:60 - Виконалась команда find by name
+2023-11-11 18:14:22 ERROR ReadFromFile:30 - No such command as Unknown_command in reader statement
+2023-11-11 18:14:22 INFO  ReadFromFile:26 - Виконалась команда reader default
+2023-11-11 18:14:22 INFO  ReadFromFile:26 - Виконалась команда reader filename
+2023-11-11 18:14:36 ERROR CountUsers:37 - No such command as Unknown_command in count statement
+2023-11-11 18:14:36 INFO  CountUsers:34 - Виконалась команда count all
+2023-11-11 18:14:36 ERROR WriteToFileResult:30 - No such command as Unknown_command in write statement
+2023-11-11 18:14:36 INFO  WriteToFileResult:27 - Виконалась команда write filename
+2023-11-11 18:14:36 INFO  WriteToFileResult:27 - Виконалась команда write default
+2023-11-11 18:14:36 ERROR PrintData:51 - 
+No such command as Unknown_command in sort statement
+2023-11-11 18:14:36 INFO  PrintData:47 - Виконалась команда sort all
+2023-11-11 18:14:36 ERROR SortTariff:65 - No such command as Unknown_command in sort statement
+2023-11-11 18:14:36 INFO  SortTariff:61 - Виконалась команда sort feePerMonth
+2023-11-11 18:14:36 INFO  SortTariff:61 - Виконалась команда sort internetInGB
+2023-11-11 18:14:36 ERROR FindTariff:64 - No such command as by Unknown_command in find statement
+2023-11-11 18:14:36 INFO  FindTariff:60 - Виконалась команда find by name
+2023-11-11 18:14:36 INFO  FindTariff:60 - Виконалась команда find by diapason feePerMonth
+2023-11-11 18:14:36 INFO  FindTariff:60 - Виконалась команда find by diapason internetInGB
+2023-11-11 18:14:36 INFO  FindTariff:60 - Виконалась команда find by diapason callMinutes
+2023-11-11 18:14:36 INFO  FindTariff:60 - Виконалась команда find by diapason kstSMS
+2023-11-11 18:14:36 ERROR FindTariff:69 - No such command as Unknown_command in find diapason statement
+2023-11-11 18:14:36 INFO  FindTariff:60 - Виконалась команда find by name
+2023-11-11 18:14:36 ERROR ReadFromFile:30 - No such command as Unknown_command in reader statement
+2023-11-11 18:14:36 INFO  ReadFromFile:26 - Виконалась команда reader default
+2023-11-11 18:14:36 INFO  ReadFromFile:26 - Виконалась команда reader filename
+2023-11-12 22:57:43 ERROR CountUsers:37 - No such command as Unknown_command in count statement
+2023-11-12 22:57:43 INFO  CountUsers:34 - Виконалась команда count all
+2023-11-12 22:57:43 ERROR WriteToFileResult:30 - No such command as Unknown_command in write statement
+2023-11-12 22:57:43 INFO  WriteToFileResult:27 - Виконалась команда write filename
+2023-11-12 22:57:43 INFO  WriteToFileResult:27 - Виконалась команда write default
+2023-11-12 22:57:43 ERROR PrintData:51 - 
+No such command as Unknown_command in sort statement
+2023-11-12 22:57:43 INFO  PrintData:47 - Виконалась команда sort all
+2023-11-12 22:57:43 ERROR SortTariff:65 - No such command as Unknown_command in sort statement
+2023-11-12 22:57:43 INFO  SortTariff:61 - Виконалась команда sort feePerMonth
+2023-11-12 22:57:43 INFO  SortTariff:61 - Виконалась команда sort internetInGB
+2023-11-12 22:57:43 ERROR FindTariff:64 - No such command as by Unknown_command in find statement
+2023-11-12 22:57:43 INFO  FindTariff:60 - Виконалась команда find by name
+2023-11-12 22:57:43 INFO  FindTariff:60 - Виконалась команда find by diapason feePerMonth
+2023-11-12 22:57:43 INFO  FindTariff:60 - Виконалась команда find by diapason internetInGB
+2023-11-12 22:57:43 INFO  FindTariff:60 - Виконалась команда find by diapason callMinutes
+2023-11-12 22:57:43 INFO  FindTariff:60 - Виконалась команда find by diapason kstSMS
+2023-11-12 22:57:43 ERROR FindTariff:69 - No such command as Unknown_command in find diapason statement
+2023-11-12 22:57:43 INFO  FindTariff:60 - Виконалась команда find by name
+2023-11-12 22:57:43 ERROR ReadFromFile:30 - No such command as Unknown_command in reader statement
+2023-11-12 22:57:43 INFO  ReadFromFile:26 - Виконалась команда reader default
+2023-11-12 22:57:43 INFO  ReadFromFile:26 - Виконалась команда reader filename
+2023-11-12 22:57:51 INFO  Menu:20 - Програма запустилась
+2023-11-12 22:58:03 INFO  ReadFromFile:26 - Виконалась команда read-from default
+2023-11-12 22:59:43 INFO  Menu:20 - Програма запустилась
+2023-11-12 22:59:52 INFO  ReadFromFile:26 - Виконалась команда read-from default
+2023-11-12 23:00:01 ERROR SortTariff:65 - No such command as ddfsdd in sort by statement
+2023-11-12 23:01:12 INFO  Menu:20 - Програма запустилась
+2023-11-12 23:01:20 INFO  ReadFromFile:26 - Виконалась команда read-from default
+2023-11-12 23:01:26 ERROR SortTariff:65 - No such command as fdss in sort by statement
+2023-11-12 23:01:36 INFO  SortTariff:61 - Виконалась команда sort by feePerMonth
