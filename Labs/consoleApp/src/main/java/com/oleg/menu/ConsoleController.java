@@ -75,6 +75,6 @@ public class ConsoleController {
     }
 
     private List<String> parseConsoleCommand(String consoleCommand) {
-        return Arrays.stream(consoleCommand.split("\\s+")).collect(Collectors.toCollection(LinkedList::new));
+        return Arrays.asList(consoleCommand.split("\\s+"));
     }
 }
